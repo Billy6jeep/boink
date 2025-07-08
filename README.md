@@ -30,7 +30,7 @@ In another terminal, start the rails server: `rails s`
 
 Open Boink from your Webkit (Chrome, Safari) browser: `http://localhost:3000/booth/show`. I prefer to use Chrome because I can full-screen the window.
 
-Optional: share your Mac's Internet connection and run the frontend from your iPad. It's touch-tastic.
+Optional: share your Mac's Internet connection and run the frontend from your iPad. It's touch-friendly experience!
 
 The images will print from the default printer. You can run the booth and printer asynchronously.
 
